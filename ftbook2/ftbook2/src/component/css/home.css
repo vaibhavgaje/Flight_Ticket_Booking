@@ -1,0 +1,9 @@
+.homePage{
+    background-image: url(https://images.news18.com/ibnlive/uploads/2021/12/akasa-air-164018485216x9.jpg);
+    height: 850px;
+}
+.Container{
+    display : block;
+    width: 700;
+    padding: 30
+}

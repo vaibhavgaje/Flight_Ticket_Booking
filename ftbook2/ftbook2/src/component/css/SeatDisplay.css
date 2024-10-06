@@ -1,0 +1,36 @@
+.seats {
+  width: 100px;
+    font-family: sans-serif;
+   
+  }
+  .seat:hover{
+    border-radius: 20px;
+    border: 40px;
+  }
+  .seat {
+    background-color: green;
+    padding: 20px;
+  }
+  
+  .seat--reserved {
+    background-color: gray;
+  }
+  
+  .seat--selected {
+    background-color: blue;
+  }
+  
+  .seat-picker {
+    margin: auto;
+  }
+/*   
+  .seat-picker__row {
+  }
+  
+  .seat-picker__row__number {
+  }
+   */
+  div.blank {
+    display: none;
+  }
+ 

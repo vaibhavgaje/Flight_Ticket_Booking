@@ -1,0 +1,14 @@
+.card{
+ width: 600px;
+}
+
+#body{
+    margin-top: 180px;
+    margin-left: auto ;
+    margin-right: auto ;
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */ 
+    box-shadow: inset;
+    box-shadow: 10px 10px 5px black;
+    border-radius: 20px ;
+}
